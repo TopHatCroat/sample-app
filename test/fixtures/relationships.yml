@@ -1,0 +1,15 @@
+one:
+  follower: antonio
+  followed: lana
+
+two:
+  follower: antonio
+  followed: mallory
+
+three:
+  follower: lana
+  followed: antonio
+
+four:
+  follower: archer
+  followed: antonio
